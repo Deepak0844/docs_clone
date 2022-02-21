@@ -1,0 +1,17 @@
+.headerInput {
+  border: none;
+  outline: none;
+  height: 20px;
+  background: transparent;
+}
+.header {
+  display: flex;
+  align-items: center;
+  padding: 5px 0;
+  justify-content: space-between;
+}
+.headerLeft {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
